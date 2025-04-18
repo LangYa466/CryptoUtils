@@ -2,6 +2,10 @@
 
 一个用 Java 编写的加密工具库，展示了多种常见的加密算法与技术实现方式
 
+# 使用 maven/gradle 导入
+https://jitpack.io/#LangYa466/CryptoUtils/-SNAPSHOT
+---
+
 ## 功能简介
 
 本工具库提供以下加密功能：
